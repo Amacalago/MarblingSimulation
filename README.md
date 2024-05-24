@@ -5,10 +5,11 @@ https://people.csail.mit.edu/jaffer/Marbling/index#TOC
 
 Last updated: May 2024
 
-INSTRUCTIONS: \n
-click to add ink [D]rop or [V]ortex\n
-press V for vortex mode\n
-press D for drop mode\n
-drag and release mouse to tine\n
-press BACKSPACE to clear board\n
+INSTRUCTIONS:
+click to add ink [D]rop or [V]ortex
+press V for vortex mode
+press D for drop mode
+drag and release mouse to tine
+press BACKSPACE to clear board
+
 
