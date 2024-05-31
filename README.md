@@ -19,10 +19,8 @@ press BACKSPACE to clear board.
 
 ### Sliders:
 Displacement:
-
 Controls the displacement of the tine. Ranges from 20 to 80.
 
 Roundedness:
-
 Controls how rounded the mouth of the tine will be. Ranges from 1 to 10.
 
